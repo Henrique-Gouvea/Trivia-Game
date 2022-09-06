@@ -37,9 +37,9 @@ A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[React](https://github.com/facebook/react)**
--   **[Sequelize](https://github.com/sequelize/sequelize)**
--   **[Nodemon](https://github.com/remy/nodemon)**
--   **[fs](https://github.com/r-lib/fs)**
+-   **[React-Router](https://github.com/remix-run/react-router)**
+-   **[Redux](https://github.com/reduxjs/react-redux)**
+-   **[Crypto-js](https://github.com/brix/crypto-js)**
 
 ---
 
